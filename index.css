@@ -66,9 +66,8 @@ header{
 }
 
 .post-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    width: 375px;
+    height: 375px;
     margin: 0;
     margin-bottom: -5px;
 }
